@@ -273,7 +273,7 @@ class SyncMe(unittest.TestCase):
         driver = self.driver
 
         self.log("Start get")
-        driver.get('https://www.nebraska.gov/apps-sos-voter-registration/')
+        driver.get(WEBSITE LINK HERE)
         self.log("End get")
 
         self.log("Wait 1")
